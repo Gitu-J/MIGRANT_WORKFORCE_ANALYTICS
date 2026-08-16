@@ -1,0 +1,4 @@
+Series,Selected_ARIMA
+EU27_Emp,"(2, 1, 2)"
+NonEU_Emp,"(1, 1, 2)"
+NonUK_Born_Emp,"(1, 1, 2)"

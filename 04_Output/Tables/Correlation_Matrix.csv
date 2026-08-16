@@ -1,0 +1,5 @@
+,Vacancy_Rt,Turnover_Rt,Visa_Grants,NonUK_Born_Emp
+Vacancy_Rt,1.0,0.731,0.77,-0.289
+Turnover_Rt,0.731,1.0,0.606,-0.836
+Visa_Grants,0.77,0.606,1.0,-0.128
+NonUK_Born_Emp,-0.289,-0.836,-0.128,1.0
