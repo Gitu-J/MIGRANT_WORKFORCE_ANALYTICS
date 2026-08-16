@@ -4,7 +4,7 @@
 
 This project presents:
 
-# **Data-Driven Analysis of Workforce Challenges and Retention Patterns Among Migrant Care Workers in the UK Social Care Sector**
+# **A Data-Driven Analysis of Workforce Challenges and Retention Patterns Among Migrant Care Workers in the UK Social Care Sector**
 
 It uses secondary workforce, migration and labour-market data to examine factors associated with workforce retention and support evidence-based workforce planning.
 
@@ -14,10 +14,10 @@ The aim of this project is to develop a data-driven analytical framework for exa
 ## Data Sources
 
 The analysis uses secondary data from relevant UK sources, including:
-
 - Skills for Care – Adult Social Care Workforce Data
 - Office for National Statistics (ONS) – Labour market data
 - UK Home Office – Visa and migration statistics
+  
 
 ## Project Structure
 
@@ -45,6 +45,7 @@ Interactive Power BI dashboard comprising five pages:
 - **Page 3:** Migration and Workforce Dynamics
 - **Page 4:** Evidence and Insights
 - **Page 5:** Looking Ahead: Migrant Workforce Forecast
+  
   
 ## Methodology
 
