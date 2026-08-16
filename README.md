@@ -2,7 +2,11 @@
 
 ## Project Overview
 
-This project presents a data-driven analysis of workforce challenges and retention patterns among migrant care workers in the UK social care sector. It uses secondary workforce, migration and labour-market data to examine factors associated with workforce retention and support evidence-based workforce planning.
+This project presents:
+
+# **Data-Driven Analysis of Workforce Challenges and Retention Patterns Among Migrant Care Workers in the UK Social Care Sector**
+
+It uses secondary workforce, migration and labour-market data to examine factors associated with workforce retention and support evidence-based workforce planning.
 
 ## Research Aim
 
@@ -17,12 +21,31 @@ The analysis uses secondary data from relevant UK sources, including:
 
 ## Project Structure
 
-- `01_Raw_Data` – Original datasets collected from the relevant sources.
-- `02_Clean_Data` – Cleaned and prepared datasets used for analysis.
-- `03_Notebooks` – Jupyter/Python notebooks used for data preparation, analysis and modelling.
-- `04_Output` – Analysis results, tables and visualisations.
-- `05_PowerBI` – Power BI dashboard and related files.
+### 01_Raw_Data
+Original datasets collected from the relevant sources.
 
+### 02_Clean_Data
+Cleaned and analysis-ready datasets used in the study.
+
+### 03_Notebooks
+Three Jupyter/Python notebooks documenting the analytical workflow:
+
+- **Notebook 1:** Data Preparation and Initial Exploration
+- **Notebook 2:** Dataset Integration and Comparative Analysis of Workforce, Migration and Employment Trends
+- **Notebook 3:** Time-Series Forecasting of Migrant Employment Trends
+
+### 04_Output
+Analysis outputs generated throughout the project, including statistical results, model outputs and visualisations.
+
+### 05_PowerBI
+Interactive Power BI dashboard comprising five pages:
+
+- **Page 1:** Cover Page
+- **Page 2:** The Workforce Under Pressure
+- **Page 3:** Migration and Workforce Dynamics
+- **Page 4:** Evidence and Insights
+- **Page 5:** Looking Ahead: Migrant Workforce Forecast
+  
 ## Methodology
 
 The project uses quantitative secondary data analysis, including:
@@ -47,7 +70,7 @@ The project uses quantitative secondary data analysis, including:
 
 ## Project Scope
 
-The study focuses on the retention of migrant care workers within the UK adult social care sector. It examines workforce and migration patterns using secondary data from 2021 to 2026, with particular attention to indicators such as workforce size, vacancy rates, turnover, pay, nationality, contract type, migration trends and regional workforce characteristics.
+This study examines workforce challenges and retention-related patterns among migrant care workers in the UK adult social care sector using secondary workforce and migration datasets. It focuses on workforce instability, relationships between workforce and migration indicators, and future migrant employment trends within the context of post-Brexit labour market changes, the Health and Care Worker visa route and continuing workforce pressures. The study is limited to adult social care and excludes the NHS and other healthcare sectors, where workforce structures and recruitment practices differ. The focus on migrant workers reflects their growing contribution to addressing labour shortages in the sector.
 
 The analysis combines data from Skills for Care, the Office for National Statistics (ONS) and UK Home Office migration statistics to investigate relationships between workforce and migration indicators and retention-related challenges. Descriptive and trend analysis will be used to identify patterns over time and across regions, while correlation, regression and predictive modelling techniques will be applied to examine factors associated with workforce retention.
 
